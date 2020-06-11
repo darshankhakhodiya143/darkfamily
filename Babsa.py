@@ -49,12 +49,7 @@ def jalan(z):
 ##### LOGO #####
 logo = """
 \033[1;91m       ♦♦♦———————————————————————————————♦♦♦
-\033[1;96m        ╭━╮╭━╮╱╱╭━━━╮╭━┳━━━╮
-\033[1;96m        ┃┃╰╯┃┃╱╱┃╭━╮┃┃╭┫╭━╮┃ ⚡
-\033[1;96m        ┃╭╮╭╮┣━╮ ┃┃╱┃┣╯╰╋╯╭╯┃ 
-\033[1;96m        ┃┃┃┃┃┃╭╯ ┃╰━╯┣╮╭╋━╯╭╯ 
-\033[1;96m        ┃┃┃┃┃┃┃╱┃╭━╮┃┃┃┃┃╰━╮
-\033[1;96m        ╰╯╰╯╰┻╯╱╰╯╱╰╯╰╯╰━━━╯ Mraf2 Updated 0.2                   
+\033[1;96m           ITX D4RSH4N H3R3
 \033[1;91m       ♦♦♦———————————————————————————————♦♦♦
 """
 def tik():
@@ -75,35 +70,24 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 
-\033[1;97m      ░█████╗░███████╗██████╗░    
-\033[1;92m      ██╔══██╗██╔════╝╚════██╗ Updated✔ 
-\033[1;97m      ███████║█████╗░░░░███╔═╝    
-\033[1;92m      ██╔══██║██╔══╝░░██╔══╝░░    
-\033[1;92m      ██║░░██║██║░░░░░███████╗
-\033[1;97m      ╚═╝░░╚═╝╚═╝░░░░░╚══════╝
-                                                               
+\033[1;97m      DARK FAMILY X3 BABSA       
 
 """
 
 jalan("\033[1;97m•◈•───────•◈ NOT A NAME ITS BRAND •◈•───────•◈•")  
 
 
-jalan("\033[1;96m•◈• ███████╗░█████╗░░██████╗████████╗ ")
-jalan("\033[1;96m•◈• ██╔════╝██╔══██╗██╔════╝╚══██╔══╝ ")
-jalan("\033[1;97m•◈• █████╗░░███████║╚█████╗░░░░██║░░░ ")
-jalan("\033[1;96m•◈• ██╔══╝░░██╔══██║░╚═══██╗░░░██║░░░ ")
-jalan("\033[1;96m•◈• ██║░░░░░██║░░██║██████╔╝░░░██║░░░ ")
-jalan("\033[1;96m•◈• ╚═╝░░░░░╚═╝░░╚═╝╚═════╝░░░░╚═╝░░░ ")
+jalan("\033[191m DARSHAN H3R3
  
 jalan("   \033[1;91m INDAIN USERZ USE ANY PROXY ")	
 jalan("   \033[1;91m WIFI USERZ USE ANY PROXY ")	
 
 jalan("   \033[1;93m Welcome to Af2  Creations ")
 
-jalan("\033[1;97m•◈•──────────•◈•\033[1;96mTheAfgVirus\033[1;96m•◈•──────────•◈•")
+jalan("\033[1;97m•◈•──────────•◈•\033[1;96mTheDarkFamily\033[1;96m•◈•──────────•◈•")
 
-CorrectUsername = "af2"
-CorrectPassword = "af2"
+CorrectUsername = "dark"
+CorrectPassword = "dark"
 
 
 loop = 'true'
@@ -115,11 +99,7 @@ while (loop == 'true'):
             print "Logged in successfully as " + username
             loop = 'false'
         else:
-            print "Wrong Password"
-            os.system('xdg-open https://m.youtube.com/channel/UCpkJt660_upnZRNjnuLFNEA')
-    else:
-        print "Wrong Username"
-        os.system('xdg-open https://m.youtube.com/channel/UCpkJt660_upnZRNjnuLFNEA')
+         
 
 def login():
 	os.system('clear')
